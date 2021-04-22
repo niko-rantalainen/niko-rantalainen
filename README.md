@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @niko-rantalainen
-- 👀 I’m interested in beer
-- 🌱 I’m currently learning Jonin kiusaus
-- 💞️ I’m looking to collaborate on Jonin kiusaus
+- 👀 I’m interested in Python, Powershell and Pudding
 - 📫 How to reach me: by carrier pigeon as defined in RFC 1149
 
 <!---
